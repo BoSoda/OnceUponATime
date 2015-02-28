@@ -10,6 +10,38 @@ Hi!! My name is "Gold". I'm a owner of the shop.
 Today I have to buy something for my shop, so I will go to 'China Town'.
 
 
-
+<<<<<<< HEAD
+=======
 since i work here every day, nothing interest me anymore so ill find some place to sleep. 
+>>>>>>> 48249d1b176fe93d7da746a30dace13c94114c87
 
+
+
+
+
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I’m form UK. I love to travel and I want to travel around the world.
+=======
+I’m eating เต้าทึง with my friend.
+
+
+
+I'm looking for "ร้านเกาลัด", mr.Gold said.
+
+>>>>>>> 48249d1b176fe93d7da746a30dace13c94114c87
